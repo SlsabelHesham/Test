@@ -4,9 +4,15 @@ class HelloITI{
 	}
 	public void printHelloGit(){
 			System.out.println("Hello Git!");
+
+	} //test conflict
+
 }}
+
 	public static void main(String[] args)
 	{
 		printHelloWorld();
 	}
 }
+
+// ff
