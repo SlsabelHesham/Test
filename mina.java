@@ -1,7 +1,7 @@
 class HelloMina{
 	
 	public void printHelloMina(){
-			System.out.println("Hello Mina!");
+			System.out.println("Hello Mina Emad!");
 	}
 	public static void main(String[] args)
 	{
